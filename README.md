@@ -100,6 +100,7 @@ We welcome contributions from engineers, researchers, and enthusiasts! Areas of 
 ## Contact & Support
 
 For questions, suggestions, or collaboration opportunities, please reach out through GitHub Issues or contact the project maintainer.
+My Email: tharindu.rajapakshe99@gmail.com
 
 ## Acknowledgments
 
